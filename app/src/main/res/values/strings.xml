@@ -2,10 +2,13 @@
     <string name="app_name">GateWay</string>
     <string name="main_title">My Viewtiful Nanodegree Apps!</string>
     <string name="action_settings">Settings</string>
+    <string name="sunshine">Sunshine</string>
+    <string name="package_sunshine">com.fallenman.jeremyvalenzuela.sunshine.app</string>
     <string name="media_streamer">Spotify Streamer</string>
     <string name="super_duo_1">Scores</string>
     <string name="super_duo_2">Library</string>
     <string name="ant_terminator">Build It Bigger</string>
     <string name="materialize">Bacon Reader</string>
     <string name="capstone">Capstone</string>
+    <string name="app_launch">Launching&#160;</string>
 </resources>
